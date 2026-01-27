@@ -1,1 +1,15 @@
-
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>Oyan Kazakh</h1>
+        <p>
+        Kozindi ash <br>
+        Oyan Kazakh <br>
+        Koter basty <br>
+        </p>
+    </body>
+</html>
